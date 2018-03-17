@@ -8,8 +8,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        //System.out.println( showStr() );
-    	System.out.println( "eric hello");
+        System.out.println( showStr() );
+    	//System.out.println( "eric hello");
     }
     
     static String  showStr()
